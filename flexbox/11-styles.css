@@ -424,7 +424,7 @@ ul.row {
     width: 100%;
 }
 
-.nav .nav-item + .nav-item {
+.nav .nav-item+.nav-item {
     margin: var(--nav-item-margin);
 }
 
@@ -708,6 +708,7 @@ ul.row {
 /*** ARTICLE PAGE ***/
 /* Section HERO (article)
     ============================= */
+
 .hero-article {
     background-size: 150rem 100rem;
     background-position: 50% 0;
