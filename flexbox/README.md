@@ -1,6 +1,4 @@
-## Flexbox Fundamentals
-
-- **Learning Objectives
+# Learning Objectives
 
 - Explain Flexbox and how it simplifies layout creation.
 - Convert float positioning into a flex display approach.
